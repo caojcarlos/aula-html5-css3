@@ -1,0 +1,27 @@
+body{
+	background: #F5CEC5 ;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+header{
+	margin-top: 50px;
+}
+h1{
+	color:red;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+	color:blue;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+	font-size: 20px;;
+}
+.img_padrao{
+	margin-bottom: 15px;
+	widows: 120px;
+}
+
+.img_logo{
+	margin-bottom: 5px;
+}
